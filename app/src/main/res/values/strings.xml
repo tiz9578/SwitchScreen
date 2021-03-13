@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SwitchScreen</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="enter_button">Enter</string>
+    <string name="the_calling_activity_was">The calling activity was</string>
+    <string name="go_get_the_name">Go get the name</string>
+    <string name="the_user_name_is">The user name is</string>
+</resources>
